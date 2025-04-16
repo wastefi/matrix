@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/waste/CLionProjects/matrix/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/waste/CLionProjects/matrix",
+	"dir-top-bld" : "C:/Users/waste/CLionProjects/matrix/cmake-build-debug",
+	"dir-top-src" : "C:/Users/waste/CLionProjects/matrix",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/waste/CLionProjects/matrix/cmake-build-debug/CMakeFiles/matrix.dir"
+}
